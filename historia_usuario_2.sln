@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "historia_usuario_2", "historia_usuario_2\historia_usuario_2.csproj", "{A5516944-E3A2-414D-8D60-4C4C62ACF644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5516944-E3A2-414D-8D60-4C4C62ACF644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5516944-E3A2-414D-8D60-4C4C62ACF644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5516944-E3A2-414D-8D60-4C4C62ACF644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5516944-E3A2-414D-8D60-4C4C62ACF644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
