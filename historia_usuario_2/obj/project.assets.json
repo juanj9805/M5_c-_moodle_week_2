@@ -8,25 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/home/csharp/.nuget/packages/": {}
+    "C:\\Users\\JUAN JOSE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/csharp/RiderProjects/historia_usuario_2/historia_usuario_2/historia_usuario_2.csproj",
+      "projectUniqueName": "C:\\Users\\JUAN JOSE\\Desktop\\M5_c-_moodle_week_2\\historia_usuario_2\\historia_usuario_2.csproj",
       "projectName": "historia_usuario_2",
-      "projectPath": "/home/csharp/RiderProjects/historia_usuario_2/historia_usuario_2/historia_usuario_2.csproj",
-      "packagesPath": "/home/csharp/.nuget/packages/",
-      "outputPath": "/home/csharp/RiderProjects/historia_usuario_2/historia_usuario_2/obj/",
+      "projectPath": "C:\\Users\\JUAN JOSE\\Desktop\\M5_c-_moodle_week_2\\historia_usuario_2\\historia_usuario_2.csproj",
+      "packagesPath": "C:\\Users\\JUAN JOSE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JUAN JOSE\\Desktop\\M5_c-_moodle_week_2\\historia_usuario_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/csharp/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\JUAN JOSE\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
@@ -66,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.105/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
